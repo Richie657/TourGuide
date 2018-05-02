@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="parks">Parks</string>
+    <string name="places">Places</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">To Eat</string>
+    <string name="centralParkDes">Central Park is the largest park in Plymouth. It was originally created in 1928 as a park devoted to the improvement of the health of city residents.</string>
+    <string name="centralPark">Central Park</string>
+    <string name="devonportpark">Devonport Park</string>
+    <string name="devonportdescr">Also known as the \'People\'s Park\'. Built 150 years ago, it is the oldest formal public park in Plymouth.</string>
+    <string name="hoeDescr">Plymouth Hoe is the natural heart of Plymouth with breathtaking views across Plymouth Sound, one of the most perfect natural harbours in the world.</string>
+    <string name="thehoe">The Hoe</string>
+    <string name="aquadescr">The largest Aquarium in the UK, the National Marine Aquarium is a conservation charity dedicated to driving the understanding of our Oceans.</string>
+    <string name="aquarium">National Marine Aquarium</string>
+    <string name="jurysinndescr">This straightforward, modern hotel is 12 minutes from the National Marine Aquarium and 8 miles from Dartmoor Zoo.</string>
+    <string name="jurysinn">Jurys Inn</string>
+    <string name="cophotel">Copthorne Hotel</string>
+    <string name="copdescr">The 3-star hotel boasts 135 guest rooms, a fitness suite, on-site parking (chargeable) and over 400 sqm of event space, making it ideal for business and family trips.</string>
+    <string name="zuzimodescr"><![CDATA[ZUZiMO! are us & our restaurant, tapas bar located  close to the city centre and Barbican.]]></string>
+    <string name="positano">Positano</string>
+    <string name="posdescr">Two Italians from Positano, a holiday resort on the Amalfi coast, near Sorrento, came to Plymouth for six months to perfect their English. The six months has now extended itself 38 years</string>
+    <string name="zuzimo">Zuzimo</string>
+</resources>
